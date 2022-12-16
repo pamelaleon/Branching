@@ -15,3 +15,4 @@
 * `git branch` - list local branches
 * `git branch branchName` - create new local branch `branchName`
 * `git checkout branchName` - switch to branch branchName
+* `git checkout -b branchName` - create and checkout new branch
